@@ -44,6 +44,3 @@ Things to do in florence:
 End  😄 
 
 This line was added on remote repo (github)
-making new changes to push branch 
-
-# FOOTER
